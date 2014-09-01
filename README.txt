@@ -1,0 +1,1 @@
+This is the solution for the Game of Rotation in hackerrank.
